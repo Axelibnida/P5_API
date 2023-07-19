@@ -1,0 +1,7 @@
+flask
+gunicorn
+joblib
+nltk
+sklearn
+pandas
+beautifulsoup4
